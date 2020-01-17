@@ -185,17 +185,29 @@ namespace JSONtest
                }
            }
 
-           Console.WriteLine("================Find users who have articles on year 2020.====================");
+           Console.WriteLine("================Find articles that contain tips on the title..====================");
            foreach(var item in list)
            {
                foreach(var x in item.articles)
                {
-                if((x.published_at).Year == 2020)
+                if((x.title).Contains("Tips"))
                 {
-                    Console.WriteLine(item.Username);
+                    Console.WriteLine(item.Username + " " + x.title);
                 }
                }
            }
+
+        //    Console.WriteLine("================Find articles that contain tips on the title..====================");
+        //    foreach(var item in list)
+        //    {
+        //        foreach(var x in item.articles)
+        //        {
+        //         if((x.published_at) > 2019 ) 
+        //         {
+        //             Console.WriteLine(item.Username + " " + x.title);
+        //         }
+        //        }
+        //    }
 
         //    foreach(var item in list)
         //    {
