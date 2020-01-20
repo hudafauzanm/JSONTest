@@ -57,11 +57,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\bsi50128\\JSONtest\\JSONtest.csproj",
+      "projectUniqueName": "D:\\Users\\bsi50128\\JSONtest\\Soal1\\JSONtest.csproj",
       "projectName": "JSONtest",
-      "projectPath": "D:\\Users\\bsi50128\\JSONtest\\JSONtest.csproj",
+      "projectPath": "D:\\Users\\bsi50128\\JSONtest\\Soal1\\JSONtest.csproj",
       "packagesPath": "D:\\Users\\bsi50128\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\bsi50128\\JSONtest\\obj\\",
+      "outputPath": "D:\\Users\\bsi50128\\JSONtest\\Soal1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "D:\\Users\\bsi50128\\AppData\\Roaming\\NuGet\\NuGet.Config",

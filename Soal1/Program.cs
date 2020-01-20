@@ -204,9 +204,10 @@ namespace JSONtest
                {
                 string iDate = "08/2019";
                 DateTime oDate = Convert.ToDateTime(iDate);
-                Console.WriteLine(oDate);
+                //Console.WriteLine(iDate);
                 if((x.published_at) < oDate) 
                 {
+                    
                     Console.WriteLine(item.Username + " " + x.title);
                 }
                }

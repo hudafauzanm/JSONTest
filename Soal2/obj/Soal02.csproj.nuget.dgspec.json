@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Users\\bsi50128\\JSONtest\\Soal02\\Soal02.csproj": {}
+    "D:\\Users\\bsi50128\\JSONtest\\Soal2\\Soal02.csproj": {}
   },
   "projects": {
-    "D:\\Users\\bsi50128\\JSONtest\\Soal02\\Soal02.csproj": {
+    "D:\\Users\\bsi50128\\JSONtest\\Soal2\\Soal02.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Users\\bsi50128\\JSONtest\\Soal02\\Soal02.csproj",
+        "projectUniqueName": "D:\\Users\\bsi50128\\JSONtest\\Soal2\\Soal02.csproj",
         "projectName": "Soal02",
-        "projectPath": "D:\\Users\\bsi50128\\JSONtest\\Soal02\\Soal02.csproj",
+        "projectPath": "D:\\Users\\bsi50128\\JSONtest\\Soal2\\Soal02.csproj",
         "packagesPath": "D:\\Users\\bsi50128\\.nuget\\packages\\",
-        "outputPath": "D:\\Users\\bsi50128\\JSONtest\\Soal02\\obj\\",
+        "outputPath": "D:\\Users\\bsi50128\\JSONtest\\Soal2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "D:\\Users\\bsi50128\\AppData\\Roaming\\NuGet\\NuGet.Config",

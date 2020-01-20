@@ -11,3 +11,16 @@ D:\Users\bsi50128\JSONtest\obj\Debug\netcoreapp3.0\JSONtest.dll
 D:\Users\bsi50128\JSONtest\obj\Debug\netcoreapp3.0\JSONtest.pdb
 D:\Users\bsi50128\JSONtest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 D:\Users\bsi50128\JSONtest\obj\Debug\netcoreapp3.0\JSONtest.csproj.CopyComplete
+D:\Users\bsi50128\JSONtest\Soal1\bin\Debug\netcoreapp3.0\JSONtest.exe
+D:\Users\bsi50128\JSONtest\Soal1\bin\Debug\netcoreapp3.0\JSONtest.deps.json
+D:\Users\bsi50128\JSONtest\Soal1\bin\Debug\netcoreapp3.0\JSONtest.runtimeconfig.json
+D:\Users\bsi50128\JSONtest\Soal1\bin\Debug\netcoreapp3.0\JSONtest.runtimeconfig.dev.json
+D:\Users\bsi50128\JSONtest\Soal1\bin\Debug\netcoreapp3.0\JSONtest.dll
+D:\Users\bsi50128\JSONtest\Soal1\bin\Debug\netcoreapp3.0\JSONtest.pdb
+D:\Users\bsi50128\JSONtest\Soal1\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+D:\Users\bsi50128\JSONtest\Soal1\obj\Debug\netcoreapp3.0\JSONtest.csprojAssemblyReference.cache
+D:\Users\bsi50128\JSONtest\Soal1\obj\Debug\netcoreapp3.0\JSONtest.AssemblyInfoInputs.cache
+D:\Users\bsi50128\JSONtest\Soal1\obj\Debug\netcoreapp3.0\JSONtest.AssemblyInfo.cs
+D:\Users\bsi50128\JSONtest\Soal1\obj\Debug\netcoreapp3.0\JSONtest.csproj.CopyComplete
+D:\Users\bsi50128\JSONtest\Soal1\obj\Debug\netcoreapp3.0\JSONtest.dll
+D:\Users\bsi50128\JSONtest\Soal1\obj\Debug\netcoreapp3.0\JSONtest.pdb

@@ -110,7 +110,7 @@ namespace Soal02
             
         }
 
-        Console.WriteLine("==========================Find all purchases made by Ari, and add grand total by sum all total price of items. The output should only a number.====================================");
+        Console.WriteLine("=============Find all purchases made by Ari, and add grand total by sum all total price of items. The output should only a number.================");
         decimal sum = 0;
         decimal total = 0 ;
         foreach(var order in list)
@@ -151,7 +151,7 @@ namespace Soal02
             }
         }
 
-        Console.WriteLine("==========================Find people who have purchases with grand total lower than 300000. The output is an array of people name. Duplicate name is not allowed.=========================");        
+        Console.WriteLine("==========Find people who have purchases with grand total lower than 300000. The output is an array of people name. Duplicate name is not allowed.========");        
         foreach(var x in nama)
         {
             Console.WriteLine(x);
