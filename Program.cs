@@ -197,32 +197,20 @@ namespace JSONtest
                }
            }
 
-        //    Console.WriteLine("================Find articles that contain tips on the title..====================");
-        //    foreach(var item in list)
-        //    {
-        //        foreach(var x in item.articles)
-        //        {
-        //         if((x.published_at) > 2019 ) 
-        //         {
-        //             Console.WriteLine(item.Username + " " + x.title);
-        //         }
-        //        }
-        //    }
-
-        //    foreach(var item in list)
-        //    {
-        //        if((item.Profile.Birthday).Year == 1986)
-        //        {
-        //            Console.WriteLine(item.Username);
-        //        }
-        //    }
-
-
-
-
-
-
-           
+           Console.WriteLine("================Find articles published before August 2019====================");
+           foreach(var item in list)
+           {
+               foreach(var x in item.articles)
+               {
+                string iDate = "08/2019";
+                DateTime oDate = Convert.ToDateTime(iDate);
+                Console.WriteLine(oDate);
+                if((x.published_at) < oDate) 
+                {
+                    Console.WriteLine(item.Username + " " + x.title);
+                }
+               }
+           }
         }
     }
 }
